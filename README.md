@@ -14,8 +14,8 @@ This repository contains all of the notes taken by [Diana](https://github.com/Ro
 3. How
 4. I make an ordered list
 
--and
--this
--is
--how
--I make and unordered list
+- and
+- this
+- is
+- how
+- I make and unordered list
