@@ -8,7 +8,7 @@ This repository contains all of the notes taken by [Diana](https://github.com/Ro
 
 * [Week 1](https://github.com/Romadiansky/lighthouse-web-notes/tree/master/Week_1)
   * [Day 1](https://github.com/Romadiansky/lighthouse-web-notes/tree/master/Week_1/Day_1)
-}
+
 
 ### Below are some of the tools and rules I've learned
 
