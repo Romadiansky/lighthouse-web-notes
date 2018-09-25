@@ -22,3 +22,22 @@ This repository contains all of the notes taken by [Diana](https://github.com/Ro
 - is
 - how
 - I make and unordered list
+
+
+```javascript
+
+var anyString = process.argv;
+
+  var pigString = "";
+  for (var ws = 2; ws < anyString.length; ws++) {
+    var word = anyString[ws];
+    for (var l = 1; l < word.length; l++) {
+      pigString+= word[l];
+    }
+    pigString+= word[0];
+    pigString+= "ay" + " ";
+  }
+
+  console.log(pigString);
+
+  ```
